@@ -39,4 +39,5 @@ dependencies {
     implementation 'com.karumi:dexter:6.1.0'
     implementation 'com.google.android.gms:play-services-maps:17.0.0'
     implementation 'com.github.mancj:MaterialSearchBar:0.8.5'
+    implementation 'com.google.android.libraries.places:places:2.2.0'
 }

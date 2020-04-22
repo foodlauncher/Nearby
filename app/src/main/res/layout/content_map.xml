@@ -15,6 +15,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
+        android:translationY="-18dp"
         android:src="@drawable/ic_placeholder_foreground"/>
 
     <com.mancj.materialsearchbar.MaterialSearchBar
@@ -32,6 +33,7 @@
         app:mt_placeholder="Search restaurants..."/>
 
     <Button
+        android:id="@+id/btn_find"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
